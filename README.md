@@ -1,2 +1,2 @@
 # PracticeProjectCode
-Runnable code repo
+Develope E-commerce project in javascript using vs-code editor.
